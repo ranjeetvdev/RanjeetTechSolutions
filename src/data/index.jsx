@@ -498,18 +498,18 @@ export const socialMedia = [
     id: 1,
     name: "GitHub",
     icon: "/socialMedia/github.svg",
-    link: "https://github.com/Ranjeet-vishwakarma-8081",
+    link: "https://github.com/ranjeetvdev",
   },
   {
     id: 2,
     name: "Twitter",
     icon: "/socialMedia/twitter.svg",
-    link: "https://x.com/Ranjeet8081",
+    link: "https://x.com/ranjeetvdev",
   },
   {
     id: 3,
     name: "LinkedIn",
     icon: "/socialMedia/linkedIn.svg",
-    link: "https://www.linkedin.com/in/ranjeet-vishwakarma-9390a2250/",
+    link: "https://www.linkedin.com/in/ranjeetvdev",
   },
 ];
